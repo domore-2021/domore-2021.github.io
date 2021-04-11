@@ -1077,3 +1077,12 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+iframe[seamless] {
+  border: none;
+}
+
+#donatebutton {
+  display: flex;
+  justify-content: center;
+}
