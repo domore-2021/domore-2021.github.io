@@ -211,10 +211,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  margin-left: 100px;
   width: 900px;
   height: 700px;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
 }
 
