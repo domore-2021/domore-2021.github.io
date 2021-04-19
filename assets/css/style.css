@@ -534,7 +534,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #149ddd;
+  color: black;
 }
 
 .portfolio #portfolio-flters li:last-child {
